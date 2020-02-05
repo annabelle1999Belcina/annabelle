@@ -1,0 +1,12 @@
+.list{
+    background-color: pink;
+    height: 150px;
+    overflow: auto;
+    color: black;
+    font-size: 15px;
+    
+}
+.hieght{
+    margin-top: -1130px;
+    height: 500px;
+}
